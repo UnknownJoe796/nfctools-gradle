@@ -37,7 +37,19 @@ public class AcsTag extends Tag implements ApduTag {
         super(tagType, generalBytes);
         this.card = card;
         cardChannel = card.getBasicChannel();
+
+        try {
+            negateBuzzer(cardChannel);
+        } catch (CardException e) {
+            e.printStackTrace();
+        }
     }
+
+    private void negateBuzzer(CardChannel cardChannel) throws CardException {
+
+        cardChannel.transmit( new CommandAPDU(new byte[] { (byte)0xFF, (byte)0x00, (byte)0x52, (byte)0x00, (byte)0x00}));
+    }
+
 
     public Card getCard() {
         return card;
