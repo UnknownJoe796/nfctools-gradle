@@ -77,13 +77,5 @@
     <orderEntry type="library" exported="" scope="TEST" name="logback-core-0.9.18" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="annotations-13.0" level="project" />
-    <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
   </component>
 </module>
