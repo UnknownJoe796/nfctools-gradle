@@ -31,6 +31,7 @@
           <option name="pluginClasspaths">
             <array />
           </option>
+          <option name="coroutinesState" value="warn" />
         </compilerArguments>
       </configuration>
     </facet>
@@ -51,32 +52,32 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="kotlin-stdlib-jre8-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="logback-classic-0.9.18" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="slf4j-api-1.7.25" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="rxtx-2.1.7" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="kotlin-stdlib-jre7-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="kotlin-stdlib-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="logback-core-0.9.18" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="annotations-13.0" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="kotlin-stdlib-jre8-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="logback-classic-0.9.18" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="slf4j-api-1.7.25" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="rxtx-2.1.7" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="kotlin-stdlib-jre7-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="kotlin-stdlib-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="logback-core-0.9.18" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="annotations-13.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="kotlin-stdlib-jre8-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="logback-classic-0.9.18" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="slf4j-api-1.7.25" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="rxtx-2.1.7" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="kotlin-stdlib-jre7-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="kotlin-stdlib-1.1.60" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="logback-core-0.9.18" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="annotations-13.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: kotlin-stdlib-jre8-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: logback-classic-0.9.18" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: slf4j-api-1.7.25" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: rxtx-2.1.7" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: kotlin-stdlib-jre7-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: kotlin-stdlib-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: logback-core-0.9.18" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: annotations-13.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: kotlin-stdlib-jre8-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: logback-classic-0.9.18" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: slf4j-api-1.7.25" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: rxtx-2.1.7" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: kotlin-stdlib-jre7-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: kotlin-stdlib-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: logback-core-0.9.18" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: annotations-13.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: kotlin-stdlib-jre8-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: logback-classic-0.9.18" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: slf4j-api-1.7.25" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: rxtx-2.1.7" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-4.12" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: kotlin-stdlib-jre7-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: kotlin-stdlib-1.1.60" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: logback-core-0.9.18" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: hamcrest-core-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: annotations-13.0" level="project" />
     <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" exported="" name="nfctools-gradle.nfctools-gradle-1.0-SNAPSHOT" level="project" />
